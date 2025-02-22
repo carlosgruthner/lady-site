@@ -6,7 +6,7 @@ export default function Footer() {
 
 
         <footer className="">
-            <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
+            <div className="mx-auto w-full  p-4 py-6 lg:py-8">
                 <div className='flex justify-between'>
 
 
