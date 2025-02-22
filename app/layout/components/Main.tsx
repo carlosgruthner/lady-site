@@ -12,7 +12,7 @@ export default function Main() {
                     <div className='absolute'>
                         <h1 className='py-2 text-white font-bold text-6xl'>Quer ser minha Lady?</h1>
                         <p className='py-4 text-slate-300 sm:max-w-[70%] m-auto text-2xl'>
-                            Presenteie o seu amor e tenha a melhor experiência inesquecível.
+                            Presenteie o seu amor e tenha uma experiência inesquecível.
                         </p>
                         <div className='flex items-center justify-between max-w-[400px] m-auto py-3'>
 
